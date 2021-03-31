@@ -1,0 +1,1 @@
+export const log = '###########################################\n# \n# Hi there crypto stranger\n# \n# Hope you like this page\n# Be sure to check subgraph as well:\n# - https://thegraph.com/explorer/subgraph/andrejrakic/quantstamp\n# \n# Cheers, \n# Andrej\n##########################################';

@@ -7,10 +7,11 @@ import RefundErrors from '../components/RefundErrors'
 import Reports from '../components/Reports'
 import SubmissionErrors from '../components/SubmissionErrors'
 import AssignmentErrors from '../components/AssignmentErrors'
+import { log } from '../easteregg'
 
 export default function Dashboard() {
   useEffect(() => {
-    console.log('###########################################\n# \n# Hi there crypto stranger\n# \n# Hope you like this page\n# Be sure to check subgraph as well:\n# - https://thegraph.com/explorer/subgraph/andrejrakic/quantstamp\n# \n# Cheers, \n# Andrej\n##########################################');
+    console.log(log);
   })
   return (
     <div style={{backgroundColor: '#59acf960'}}>

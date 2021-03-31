@@ -5,7 +5,7 @@ import logo from '../assets/quantastamp-logo.jpeg'
 export default function JumbotronComponent() {
   const alt = `Quantstamp logo`;
   const subgraphUri = `https://thegraph.com/explorer/subgraph/andrejrakic/quantstamp`;
-  const githubUri = ``;
+  const githubUri = `https://github.com/andrejrakic/quantstamp-analytics`;
   const etherscanUri = `https://etherscan.io/address/0x5a0e27020FA22AdaB2e81495025bEF3Fab7821fd#code`
   return (
     <div style={{ justifySelf: 'center'}}>
