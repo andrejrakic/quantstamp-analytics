@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/andrejrakic/quantstamp-analytics/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/andrejrakic/quantstamp-analytics/static/js/main.f86f34ac.chunk.js",
-    "main.js.map": "/andrejrakic/quantstamp-analytics/static/js/main.f86f34ac.chunk.js.map",
-    "runtime-main.js": "/andrejrakic/quantstamp-analytics/static/js/runtime-main.d365ef76.js",
-    "runtime-main.js.map": "/andrejrakic/quantstamp-analytics/static/js/runtime-main.d365ef76.js.map",
-    "static/css/2.150d169a.chunk.css": "/andrejrakic/quantstamp-analytics/static/css/2.150d169a.chunk.css",
-    "static/js/2.28b33c7c.chunk.js": "/andrejrakic/quantstamp-analytics/static/js/2.28b33c7c.chunk.js",
-    "static/js/2.28b33c7c.chunk.js.map": "/andrejrakic/quantstamp-analytics/static/js/2.28b33c7c.chunk.js.map",
-    "static/js/3.060d489d.chunk.js": "/andrejrakic/quantstamp-analytics/static/js/3.060d489d.chunk.js",
-    "static/js/3.060d489d.chunk.js.map": "/andrejrakic/quantstamp-analytics/static/js/3.060d489d.chunk.js.map",
-    "index.html": "/andrejrakic/quantstamp-analytics/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/andrejrakic/quantstamp-analytics/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/andrejrakic/quantstamp-analytics/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.28b33c7c.chunk.js.LICENSE.txt": "/andrejrakic/quantstamp-analytics/static/js/2.28b33c7c.chunk.js.LICENSE.txt"
+    "main.css": "/quantstamp-analytics/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/quantstamp-analytics/static/js/main.f86f34ac.chunk.js",
+    "main.js.map": "/quantstamp-analytics/static/js/main.f86f34ac.chunk.js.map",
+    "runtime-main.js": "/quantstamp-analytics/static/js/runtime-main.3d18c2ff.js",
+    "runtime-main.js.map": "/quantstamp-analytics/static/js/runtime-main.3d18c2ff.js.map",
+    "static/css/2.150d169a.chunk.css": "/quantstamp-analytics/static/css/2.150d169a.chunk.css",
+    "static/js/2.09822e3b.chunk.js": "/quantstamp-analytics/static/js/2.09822e3b.chunk.js",
+    "static/js/2.09822e3b.chunk.js.map": "/quantstamp-analytics/static/js/2.09822e3b.chunk.js.map",
+    "static/js/3.060d489d.chunk.js": "/quantstamp-analytics/static/js/3.060d489d.chunk.js",
+    "static/js/3.060d489d.chunk.js.map": "/quantstamp-analytics/static/js/3.060d489d.chunk.js.map",
+    "index.html": "/quantstamp-analytics/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/quantstamp-analytics/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/quantstamp-analytics/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.09822e3b.chunk.js.LICENSE.txt": "/quantstamp-analytics/static/js/2.09822e3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d365ef76.js",
+    "static/js/runtime-main.3d18c2ff.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.28b33c7c.chunk.js",
+    "static/js/2.09822e3b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f86f34ac.chunk.js"
   ]
